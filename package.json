@@ -1,0 +1,27 @@
+{
+  "name": "reactjs-popup-modals-tooltips-and-menus-all-in-one",
+  "version": "1.0.0",
+  "description": "Reactjs-popup is a simple and very small (3 kb) react popup component, with multiple use cases. ",
+  "keywords": [
+    "reactjs-popup",
+    "react modal",
+    "react popup",
+    "react",
+    "react tooltip"
+  ],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-scripts": "1.1.0",
+    "reactjs-popup": "1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
